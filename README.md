@@ -2,7 +2,7 @@
 
 I am currently doing R&D at **SB Intuitions** (2026-present), focusing on **accelerating and smoothing robot policies**.
 
-## Recent Demos
+## Recent Demo Videos
 
 ### Box Assembling
 <a href="https://www.youtube.com/watch?v=7bq0L0L5xEE">
